@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: ad5a3b744d69d6f42bb55ec27b20f579
+timeCreated: 1521263655
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: boarder_church
+    100002: //RootNode
+    100004: church
+    100006: church 1
+    100008: church_building_dh:polySurface1573
+    100010: church_building_dh:polySurface1576
+    100012: church_building_dh:polySurface1580
+    100014: church_building_dh:polySurface569
+    100016: church_building_dh:polySurface774
+    100018: extra_structure
+    100020: inside1
+    100022: polySurface2438
+    100024: polySurface2439
+    100026: polySurface2439 1
+    100028: polySurface2440
+    100030: polySurface2441
+    100032: polySurface2442
+    100034: polySurface2442 1
+    100036: polySurface2443
+    100038: polySurface2444
+    100040: polySurface2446
+    100042: transform35
+    100044: transform36
+    100046: transform39
+    100048: transform40
+    100050: transform41
+    100052: transform42
+    100054: transform43
+    100056: transform44
+    100058: transform45
+    100060: transform46
+    100062: transform47
+    400000: boarder_church
+    400002: //RootNode
+    400004: church
+    400006: church 1
+    400008: church_building_dh:polySurface1573
+    400010: church_building_dh:polySurface1576
+    400012: church_building_dh:polySurface1580
+    400014: church_building_dh:polySurface569
+    400016: church_building_dh:polySurface774
+    400018: extra_structure
+    400020: inside1
+    400022: polySurface2438
+    400024: polySurface2439
+    400026: polySurface2439 1
+    400028: polySurface2440
+    400030: polySurface2441
+    400032: polySurface2442
+    400034: polySurface2442 1
+    400036: polySurface2443
+    400038: polySurface2444
+    400040: polySurface2446
+    400042: transform35
+    400044: transform36
+    400046: transform39
+    400048: transform40
+    400050: transform41
+    400052: transform42
+    400054: transform43
+    400056: transform44
+    400058: transform45
+    400060: transform46
+    400062: transform47
+    2300000: church_building_dh:polySurface1576
+    2300002: church_building_dh:polySurface774
+    2300004: polySurface2446
+    3300000: church_building_dh:polySurface1576
+    3300002: church_building_dh:polySurface774
+    3300004: polySurface2446
+    4300000: church_building_dh:polySurface1576
+    4300002: church_building_dh:polySurface774
+    4300004: polySurface2446
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
